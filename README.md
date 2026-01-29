@@ -35,8 +35,3 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 - ✉️ Email: [edd.edwardmike@gmail.com](mailto:edd.edwardmike@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/edward-mike](https://www.linkedin.com/in/edward-mike/)  
 - 🐙 GitHub: [github.com/ping-edward-mike](https://github.com/ping-edward-mike)  
-
----
-
-### ⚡ Fun Fact
-I enjoy setting up labs and testing IT solutions to make real-world support tasks easier and more efficient!
