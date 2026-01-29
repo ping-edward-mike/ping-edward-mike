@@ -11,7 +11,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ### IT Support & Networking
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
 - Endpoint Management (MD-102 / Intune)  
-- Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs)  
+- Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs, IPv4/v6 subnetting)  
 - ITIL & Service Desk Procedures  
 - Troubleshooting Hardware & Software Issues  
 
