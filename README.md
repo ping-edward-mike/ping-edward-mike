@@ -32,7 +32,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 - ✉️ Email: [edd.edwardmike@gmail.com](mailto:edd.edwardmike@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/edward-mike](https://www.linkedin.com/in/edward-mike/)  
-- 🐙 GitHub: [github.com/edward-mike](https://github.com/edward-mike)  
+- 🐙 GitHub: [github.com/edward-mike](https://github.com/ping-edward-mike)  
 
 ---
 
