@@ -23,9 +23,8 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
-## 📊 GitHub Stats
-
-![Edward Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward-mike&show_icons=true&theme=tokyonight&count_private=true)
+## 🏗️🧪 Projects/Labs
+- Project 1
 
 ---
 
