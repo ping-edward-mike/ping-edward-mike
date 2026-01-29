@@ -13,7 +13,8 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 - Endpoint Management (MD-102 / Intune)  
 - Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs, IPv4/v6 subnetting)  
 - ITIL & Service Desk Procedures  
-- Troubleshooting Hardware & Software Issues  
+- Troubleshooting Hardware & Software Issues
+- Python Programming
 
 ---
 
@@ -25,7 +26,8 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ## 🏗️🧪 Projects/Labs
 - Project 1
-
+- Project 2
+  
 ---
 
 ## 📫 Contact Me
