@@ -2,7 +2,7 @@
 
 > CCNA Certified 1st Line IT Support | Aspiring Network Engineer  
 
-I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am currently seeking an **IT Support role** with the goal of building a career in networking. This year, I plan to begin preparing for **CCNP ENCOR** to further develop my networking expertise.  
+I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am currently seeking an IT Support role while building a career in networking. After focused preparation for CCNA, I plan to begin studying for CCNP ENCOR in March 2026 to further develop my networking expertise.
 
 ---
 
