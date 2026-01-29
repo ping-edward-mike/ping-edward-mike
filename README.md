@@ -19,7 +19,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ---
 
 ## 🎓 Certifications
-- **Cisco Certified Network Associate (CCNA 200-301)(https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)** – Jan 2026  
+- **[Cisco Certified Network Associate (CCNA 200-301)](https://www.credly.com/badges/8158f68d-d41a-436f-8829-103f9357d33c)** – Jan 2026  
 - **Certified Associate in Python Programming (PCAP)** – Aug 2022  
 
 ---
