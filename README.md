@@ -1,19 +1,19 @@
 # 👋 Hi, I’m Edward Mike
 
-> Entry-level Service Desk / 1st Line IT Support | IT Enthusiast
+> CCNA Certified 1st Line IT Support | Aspiring Network Engineer  
 
-I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am eager to learn, adapt quickly, and contribute effectively to any IT team.  
+I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am currently seeking an **IT Support role** with the goal of building a career in networking. This year, I plan to begin preparing for **CCNP ENCOR** to further develop my networking expertise.  
 
 ---
 
 ## 🛠️ Skills
 
 ### IT Support & Networking
-- Windows Server (Active Directory, DNS, DHCP, GPO)
-- Endpoint Management (MD-102 / Intune)
-- Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs)
-- ITIL & Service Desk Procedures
-- Troubleshooting Hardware & Software Issues
+- Windows Server (Active Directory, DNS, DHCP, GPO)  
+- Endpoint Management (MD-102 / Intune)  
+- Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs)  
+- ITIL & Service Desk Procedures  
+- Troubleshooting Hardware & Software Issues  
 
 ---
 
