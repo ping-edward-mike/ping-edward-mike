@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Edward Mike
 
 > CCNA Certified 1st Line IT Support | IT Infrastructure Enthusiast
+
 Passionate about end-user support and IT infrastructure management, with hands-on experience in networking, Windows Server, and endpoint management.  
 Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply and grow these skills.
 
