@@ -6,7 +6,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Currently Focusing On
 
 - Windows Server administration (Active Directory, DNS, DHCP, GPO)
 - Endpoint management with Intune (MD-102)
@@ -15,7 +15,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### IT Support & Networking
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
