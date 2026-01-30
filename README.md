@@ -14,7 +14,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 - Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs, IPv4/v6 subnetting)  
 - ITIL & Service Desk Procedures  
 - Troubleshooting Hardware & Software Issues
-- Python Programming
+- Python Programming (Intermediate level)
 
 ---
 
