@@ -34,9 +34,8 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ---
 
 ## 💻 Projects & Labs
-- Windows Server & Active Directory labs  
-- MD-102 / Intune endpoint management labs  
-- Networking labs (CCNA-level) with routing, switching, and subnetting exercises
+- Windows Server & Active Directory labs  (uploading this saturday,31/01/2026)
+- MD-102 / Intune endpoint management labs (in progress)
 
 ---
 
