@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Edward Mike
 
-> CCNA Certified 1st Line IT Support | Aspiring Network Engineer  
+> CCNA Certified 1st Line IT Support | IT Infrastructure Enthusiast
 
-I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am currently seeking an IT Support role while building a career in networking. After focused preparation for CCNA, **I plan to begin studying for CCNP ENCOR in March 2026** to further develop my networking expertise.
+I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am actively seeking a 1st Line IT Support role while building hands-on experience in networking and endpoint management.
 
 ---
 
-## 🎯 Currently Focusing On
+## 🎯 Focus Areas
 
-- Building hands-on experience for **1st Line / IT Support roles**
 - Windows Server administration (Active Directory, DNS, DHCP, GPO)
-- Endpoint management with **Intune (MD-102)**
-- Strengthening networking fundamentals through practical labs
+- Endpoint management with Intune (MD-102)
+- Networking fundamentals and practical labs
+- Troubleshooting hardware, software, and connectivity issues
 
 ---
 
@@ -20,10 +20,10 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ### IT Support & Networking
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
 - Endpoint Management (MD-102 / Intune)  
-- Networking Fundamentals (CCNA-level: OSPF, EIGRP, VLANs, IPv4/v6 subnetting)  
+- Networking Fundamentals (Subnetting, VLANs, Routing basics)  
 - ITIL & Service Desk Procedures  
-- Troubleshooting Hardware & Software Issues
-- Python Programming (Intermediate)
+- Troubleshooting Hardware & Software  
+- Python (scripting for automation and IT tasks)
 
 ---
 
@@ -33,14 +33,15 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
-## 🏗️🧪 Projects/Labs
-- Windows Server & Active Directory labs (in progress – publishing this weekend)
-- MD-102 / Intune device management labs (in progress)
-  
+## 💻 Projects & Labs
+- Windows Server & Active Directory labs  
+- MD-102 / Intune endpoint management labs  
+- Networking labs (CCNA-level) with routing, switching, and subnetting exercises
+
 ---
 
 ## 📫 Contact Me
 
 - ✉️ Email: [edd.edwardmike@gmail.com](mailto:edd.edwardmike@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/edward-mike](https://www.linkedin.com/in/edward-mike/)  
-- 🐙 GitHub: [github.com/ping-edward-mike](https://github.com/ping-edward-mike)  
+- 🐙 GitHub: [github.com/ping-edward-mike](https://github.com/ping-edward-mike)
