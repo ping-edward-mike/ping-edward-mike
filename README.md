@@ -3,15 +3,15 @@
 > CCNA Certified 1st Line IT Support | IT Infrastructure Enthusiast
 
 Passionate about end-user support and IT infrastructure management, with hands-on experience in networking, Windows Server, and endpoint management.  
-Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply and grow these skills.
+Seeking a **Junior Network Engineer** or **1st Line IT Support** role to apply and grow these skills.
 
 ---
 
 ## 🎯 Currently Focusing On
 
+- Networking fundamentals (CCNA-level) and practical labs
 - Windows Server administration (Active Directory, DNS, DHCP, GPO)
 - Endpoint management with Intune (MD-102)
-- Networking fundamentals and practical labs
 - Troubleshooting hardware, software, and connectivity issues
 
 ---
@@ -19,13 +19,10 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 ## 🛠️ Technical Skills
 
 ### IT Support & Networking
+- Networking Fundamentals (Subnetting, VLANs, Routing basics)  
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
 - Endpoint Management (MD-102 / Intune)  
-- Networking Fundamentals (Subnetting, VLANs, Routing basics)  
 - Troubleshooting Hardware & Software  
-
-### Tools & Procedures
-- ITIL & Service Desk Procedures
 - Python (automation & IT scripting)
   
 ---
@@ -39,7 +36,8 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 ## 💻 Projects & Labs
 - Windows Server & Active Directory labs — user management, GPO configuration, DNS/DHCP setup (uploading 31/01/2026)
 - MD-102 / Intune endpoint management labs — device enrolment, compliance policies, endpoint configuration (in progress)
-  
+- Networking (CCNA-level) labs — (in progress)
+    
 ---
 
 ## 🎓 Education
