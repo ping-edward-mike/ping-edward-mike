@@ -2,8 +2,7 @@
 
 > CCNA Certified 1st Line IT Support | IT Infrastructure Enthusiast
 
-I am passionate about supporting end users, managing IT infrastructure, and ensuring smooth operations in Windows environments. I am actively seeking a **1st Line IT Support/Junior Network Engineer** role while building hands-on experience in networking, windows server and endpoint management.
-
+Passionate about end-user support and IT infrastructure management, with hands-on experience in networking, Windows Server, and endpoint management. Seeking a 1st Line IT Support or Junior Network Engineer role to apply and grow these skills.
 ---
 
 ## 🎯 Currently Focusing On
