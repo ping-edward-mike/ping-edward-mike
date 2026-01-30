@@ -39,6 +39,12 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
+## 🎓 Education
+- MSc. Big Data, Stirling University, Scotland (2022-2024)
+- BSc. Computer Science and Engineering, University of Mines and Technology, Ghana (2014-2018)
+
+---
+
 ## 📫 Contact Me
 
 - ✉️ Email: [edd.edwardmike@gmail.com](mailto:edd.edwardmike@gmail.com)  
