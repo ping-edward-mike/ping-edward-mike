@@ -6,6 +6,15 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 
 ---
 
+## 🎯 Currently Focusing On
+
+- Building hands-on experience for **1st Line / IT Support roles**
+- Windows Server administration (Active Directory, DNS, DHCP, GPO)
+- Endpoint management with **Intune (MD-102)**
+- Strengthening networking fundamentals through practical labs
+
+---
+
 ## 🛠️ Skills
 
 ### IT Support & Networking
@@ -25,7 +34,8 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ---
 
 ## 🏗️🧪 Projects/Labs
-- uploading soon (saturday - 31st Jan.)
+- Windows Server & Active Directory labs (in progress – publishing this weekend)
+- MD-102 / Intune device management labs (in progress)
   
 ---
 
