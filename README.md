@@ -22,10 +22,12 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
 - Endpoint Management (MD-102 / Intune)  
 - Networking Fundamentals (Subnetting, VLANs, Routing basics)  
-- ITIL & Service Desk Procedures  
 - Troubleshooting Hardware & Software  
-- Python (scripting for automation and IT tasks)
 
+### Tools & Procedures
+- ITIL & Service Desk Procedures
+- Python (automation & IT scripting)
+  
 ---
 
 ## 🎓 Certifications
@@ -35,13 +37,13 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 ---
 
 ## 💻 Projects & Labs
-- Windows Server & Active Directory labs  (uploading this saturday,31/01/2026)
-- MD-102 / Intune endpoint management labs (in progress)
-
+- Windows Server & Active Directory labs — user management, GPO configuration, DNS/DHCP setup (uploading 31/01/2026)
+- MD-102 / Intune endpoint management labs — device enrolment, compliance policies, endpoint configuration (in progress)
+  
 ---
 
 ## 🎓 Education
-- MSc. Big Data, Stirling University, Scotland (2022-2024)
+- MSc. Big Data, University of Stirling, Scotland (2022-2024)
 - BSc. Computer Science and Engineering, University of Mines and Technology, Ghana (2014-2018)
 
 ---
