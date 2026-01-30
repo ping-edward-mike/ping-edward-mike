@@ -25,8 +25,7 @@ I am passionate about supporting end users, managing IT infrastructure, and ensu
 ---
 
 ## 🏗️🧪 Projects/Labs
-- Project 1
-- Project 2
+- uploading soon (saturday - 31st Jan.)
   
 ---
 
