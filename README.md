@@ -34,8 +34,7 @@ Seeking a **Junior Network Engineer** or **1st Line IT Support** role to apply a
 ---
 
 ## 💻 Projects & Labs
-- Windows Server & Active Directory labs — user management, GPO configuration, DNS/DHCP setup (uploading 31/01/2026)
-- MD-102 / Intune endpoint management labs — device enrolment, compliance policies, endpoint configuration (in progress)
+- **[Enterprise IT Support Labs (Windows Server - Active Directory/Group Policy/ Organisational Unit(OUs), User Account Management)](https://github.com/ping-edward-mike/enterprise-it-support-labs/tree/main)
 - Networking (CCNA-level) labs — (in progress)
     
 ---
