@@ -34,7 +34,7 @@ Seeking a **Junior Network Engineer** or **1st Line IT Support** role to apply a
 ---
 
 ## 💻 Projects & Labs
-- **[Enterprise IT Support Labs (Windows Server - Active Directory/Group Policy/ Organisational Unit(OUs))](https://github.com/ping-edward-mike/enterprise-it-support-labs/tree/main)**
+- **[Enterprise IT Support Labs (Windows Server - Active Directory/Group Policy/Organisational Unit(OUs)),DHCP/DNS](https://github.com/ping-edward-mike/enterprise-it-support-labs/tree/main)**
 - Networking (CCNA-level) labs — (in progress)
     
 ---
