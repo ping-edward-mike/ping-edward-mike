@@ -22,7 +22,7 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
 - Endpoint Management (MD-102 / Intune)  
 - Troubleshooting Hardware & Software  
-- Python (automation & IT scripting)
+- Python (automation & scripting)
   
 ---
 
