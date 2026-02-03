@@ -11,7 +11,6 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 
 - Networking fundamentals (CCNA-level) and practical labs
 - Windows Server administration (Active Directory, DNS, DHCP, GPO)
-- Endpoint management with Intune (MD-102)
 
 ---
 
@@ -20,7 +19,6 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 ### IT Support & Networking
 - Networking Fundamentals (Subnetting, VLANs, Routing basics)  
 - Windows Server (Active Directory, DNS, DHCP, GPO)  
-- Endpoint Management (MD-102 / Intune)  
 - Troubleshooting Hardware & Software  
 - Python (automation & scripting)
   
