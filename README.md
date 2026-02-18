@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Edward Mike
+# 👋 Hi, I’m Edward
 
 > CCNA Certified 1st Line IT Support | IT Infrastructure Enthusiast
 
