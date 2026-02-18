@@ -47,4 +47,4 @@ Seeking a **1st Line IT Support** or **Junior Network Engineer** role to apply a
 - ✉️ Email: [edd.edwardmike@gmail.com](mailto:edd.edwardmike@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/edward-mike](https://www.linkedin.com/in/edward-mike/)  
 - 🐙 GitHub: [github.com/ping-edward-mike](https://github.com/ping-edward-mike)
-- 🐙 GitHub (old): [github.com/edward-mike](https://github.com/edward-mike)
+- 🐙 GitHub (inactive/lost account): [github.com/edward-mike](https://github.com/edward-mike)
